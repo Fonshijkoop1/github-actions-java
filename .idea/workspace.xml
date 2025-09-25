@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a61166d-6988-4b6f-b5ea-8bf58fd84c0b" name="Changes" comment=" protected DevopsTrainingApplication(){&#10; &#10;&#10; }&#10; &#10; Protected gemaakt en class DevopsTrainingApplication public gehouden" />
+    <list default="true" id="8a61166d-6988-4b6f-b5ea-8bf58fd84c0b" name="Changes" comment="Aanpassing voor naming convention">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/devopstraining/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/devopstraining/controller/HelloController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +24,9 @@
         <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
@@ -106,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758804493575</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test even kort">
+      <option name="closed" value="true" />
+      <created>1758804672581</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1758804672581</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -115,6 +128,8 @@
     <MESSAGE value="Final class maken" />
     <MESSAGE value="Public final class van gemaakt en private contructor gemaakt" />
     <MESSAGE value=" protected DevopsTrainingApplication(){&#10; &#10;&#10; }&#10; &#10; Protected gemaakt en class DevopsTrainingApplication public gehouden" />
-    <option name="LAST_COMMIT_MESSAGE" value=" protected DevopsTrainingApplication(){&#10; &#10;&#10; }&#10; &#10; Protected gemaakt en class DevopsTrainingApplication public gehouden" />
+    <MESSAGE value="test even kort" />
+    <MESSAGE value="Aanpassing voor naming convention" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aanpassing voor naming convention" />
   </component>
 </project>
