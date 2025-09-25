@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a61166d-6988-4b6f-b5ea-8bf58fd84c0b" name="Changes" comment="Final class maken">
+    <list default="true" id="8a61166d-6988-4b6f-b5ea-8bf58fd84c0b" name="Changes" comment="Public final class van gemaakt en private contructor gemaakt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/devopstraining/DevopsTrainingApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/devopstraining/DevopsTrainingApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/devopstraining/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/devopstraining/controller/HelloController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,13 +94,22 @@
       <option name="project" value="LOCAL" />
       <updated>1758803578197</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Public final class van gemaakt en private contructor gemaakt">
+      <option name="closed" value="true" />
+      <created>1758803902929</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1758803902929</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="checkstyle test uitgezet" />
     <MESSAGE value="checkstyle test weer aangezet" />
     <MESSAGE value="Final class maken" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final class maken" />
+    <MESSAGE value="Public final class van gemaakt en private contructor gemaakt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Public final class van gemaakt en private contructor gemaakt" />
   </component>
 </project>
