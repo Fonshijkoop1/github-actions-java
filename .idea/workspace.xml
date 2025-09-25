@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a61166d-6988-4b6f-b5ea-8bf58fd84c0b" name="Changes" comment="checkstyle test weer aangezet">
+    <list default="true" id="8a61166d-6988-4b6f-b5ea-8bf58fd84c0b" name="Changes" comment="Final class maken">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/devopstraining/DevopsTrainingApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/devopstraining/DevopsTrainingApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,12 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1758803504753</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Final class maken">
+      <option name="closed" value="true" />
+      <created>1758803578197</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1758803578197</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="checkstyle test uitgezet" />
     <MESSAGE value="checkstyle test weer aangezet" />
-    <option name="LAST_COMMIT_MESSAGE" value="checkstyle test weer aangezet" />
+    <MESSAGE value="Final class maken" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final class maken" />
   </component>
 </project>

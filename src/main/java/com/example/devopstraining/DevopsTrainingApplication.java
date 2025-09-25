@@ -4,9 +4,14 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-final class DevopsTrainingApplication {
+public final class DevopsTrainingApplication {
 
-    public static void main(String[] args) {
+    // Private constructor to prevent instantiation
+    private DevopsTrainingApplication() {
+        throw new UnsupportedOperationException("Utility class");
+    }
+
+    public static void main(final String[] args) {
         SpringApplication.run(DevopsTrainingApplication.class, args);
     }
 }
