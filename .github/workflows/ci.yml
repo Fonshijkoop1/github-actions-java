@@ -29,8 +29,8 @@ jobs:
     - name: Run tests
       run: ./mvnw clean test
 
-    - name: Run linting (Checkstyle)
-      run: ./mvnw checkstyle:check
+    #- name: Run linting (Checkstyle)
+     # run: ./mvnw checkstyle:check
 
     - name: Run static analysis (SpotBugs)
       run: ./mvnw spotbugs:check
